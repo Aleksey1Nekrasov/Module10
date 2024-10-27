@@ -29,10 +29,14 @@
   font-size: 15px;
 }
 
-
 .icon1{
  display: block;
 }
-.icon2{
+
+
+
+.btn--click{
   display: none;
  }
+ 
+
